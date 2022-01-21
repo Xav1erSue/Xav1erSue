@@ -18,7 +18,7 @@ Yᴏᴜ ᴄᴀɴ ʀᴇᴀᴄʜ ᴍᴇ ᴀᴛ:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Xav1erSue&show_icons=true&hide_border=true&count_private=true&theme=buefy">
 
-- :book: ᴍy ꜱɪᴛᴇ: [ `https://Xav1er.com`](https://Xav1er.com)
+- :book: ᴍy ꜱɪᴛᴇ: [ `https://blog.xav1er.com`](https://Xav1er.com)
 - :email: ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ: `s791521574@live.com`
 - :construction: ᴛᴇᴄʜɴᴏʟᴏɢy ꜱᴛᴀᴄᴋ & ᴛᴏᴏʟꜱ:
 
