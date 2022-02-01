@@ -28,8 +28,11 @@ Yᴏᴜ ᴄᴀɴ ʀᴇᴀᴄʜ ᴍᴇ ᴀᴛ:
 > ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-35363A?style=flat-square&logo=TypeScript&logoColor=3178C6)
 > ![Vue.js Badge](https://img.shields.io/badge/-Vue.js-35363A?style=flat-square&logo=Vue.js&logoColor=4FC08D)
 > ![Node.js Badge](https://img.shields.io/badge/-Node.js-35363A?style=flat-square&logo=Node.js&logoColor=339933)
+> ![express Badge](https://img.shields.io/badge/-Express-35363A?style=flat-square&logo=Express&logoColor=82B742)
 > ![Koa2 Badge](https://img.shields.io/badge/-Koa2-35363A?style=flat-square&logo=Koa&logoColor=ffffff)
-> ![MySQL Badge](https://img.shields.io/badge/-MySQL-35363A?style=flat-square&logo=MySQL&logoColor=ffffff0)
+> ![MySQL Badge](https://img.shields.io/badge/-MySQL-35363A?style=flat-square&logo=MySQL&logoColor=ffffff)
+> ![Less Badge](https://img.shields.io/badge/-Less-35363A?style=flat-square&logo=Less&logoColor=ffffff)
+> ![Windi CSS Badge](https://img.shields.io/badge/-WindiCSS-35363A?style=flat-square&logo=WindiCSS&logoColor=48B0F1)
 > ![VScode Badge](https://img.shields.io/badge/-VSCode-35363A?style=flat-square&logo=Visual-Studio-Code&logoColor=007ACC)
 > ![WebStorm Badge](https://img.shields.io/badge/-WebStorm-35363A?style=flat-square&logo=WebStorm&logoColor=DEF380)<br/>
 > ![Python Badge](https://img.shields.io/badge/-Python-35363A?style=flat-square&logo=Python&logoColor=3776AB)
