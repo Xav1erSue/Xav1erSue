@@ -27,6 +27,7 @@ Yᴏᴜ ᴄᴀɴ ʀᴇᴀᴄʜ ᴍᴇ ᴀᴛ:
 > ![CSS3 Badge](https://img.shields.io/badge/-CSS3-35363A?style=flat-square&logo=CSS3&logoColor=1572B6)
 > ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-35363A?style=flat-square&logo=TypeScript&logoColor=3178C6)
 > ![Vue.js Badge](https://img.shields.io/badge/-Vue.js-35363A?style=flat-square&logo=Vue.js&logoColor=4FC08D)
+> ![React.js Badge](https://img.shields.io/badge/-React-35363A?style=flat-square&logo=React&logoColor=#61DAFB)
 > ![Node.js Badge](https://img.shields.io/badge/-Node.js-35363A?style=flat-square&logo=Node.js&logoColor=339933)
 > ![express Badge](https://img.shields.io/badge/-Express-35363A?style=flat-square&logo=Express&logoColor=82B742)
 > ![Koa2 Badge](https://img.shields.io/badge/-Koa2-35363A?style=flat-square&logo=Koa&logoColor=ffffff)
