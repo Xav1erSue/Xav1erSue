@@ -12,7 +12,6 @@ Yᴏᴜ ᴄᴀɴ ʀᴇᴀᴄʜ ᴍᴇ ᴀᴛ:
 [![TikTok Badge](https://img.shields.io/badge/-Tiktok-black?style=flat-square&logo=TikTok&logoColor=white&link=https://www.douyin.com/user/MS4wLjABAAAAhpUiBNvLM5sc3SOp2arxQS6hGT8c0eTWkq9XcypOgX4)](https://www.douyin.com/user/MS4wLjABAAAAhpUiBNvLM5sc3SOp2arxQS6hGT8c0eTWkq9XcypOgX4)
 [![Zhihu Badge](https://img.shields.io/badge/-知乎-0084FF?style=flat-square&logo=Zhihu&logoColor=white&link=https://www.zhihu.com/people/xav1ersue)](https://www.zhihu.com/people/xav1ersue)
 [![Steam Badge](https://img.shields.io/badge/-Steam-122756?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/Xav1erSue/)](https://steamcommunity.com/id/Xav1erSue/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Xav1erSue/)](https://twitter.com/Xav1erSue/)
 
 ### About me
 
