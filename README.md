@@ -19,7 +19,7 @@ Yᴏᴜ ᴄᴀɴ ʀᴇᴀᴄʜ ᴍᴇ ᴀᴛ:
 
 - :book: ᴍy ꜱɪᴛᴇ: [ `https://blog.xav1er.com`](https://blog.xav1er.com)
 - :email: ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ: `s791521574@live.com`
-- :construction: ᴛᴇᴄʜɴᴏʟᴏɢy ꜱᴛᴀᴄᴋ & ᴛᴏᴏʟꜱ:
+- :construction: ᴛᴇᴄ-ꜱᴛᴀᴄᴋ & ᴛᴏᴏʟꜱ:
 
 > ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-35363A?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
 > ![HTML5 Badge](https://img.shields.io/badge/-HTML5-35363A?style=flat-square&logo=HTML5&logoColor=E34F26)
