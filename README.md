@@ -1,10 +1,9 @@
 # Hello there! :tada:
 
-𝖨'𝗆 𝖹𝗂𝗆𝗂𝗇𝗀 𝖲𝗎, 𝖺 𝗃𝗎𝗇𝗂𝗈𝗋 𝗂𝗇 𝖧𝖣𝖴, 𝗆𝖺𝗃𝗈𝗋 𝗂𝗇 𝖢𝗈𝗆𝗆𝗎𝗇𝗂𝖼𝖺𝗍𝗂𝗈𝗇 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋𝗂𝗇𝗀 ᴀɴᴅ ꜰ𝗈𝖼𝗎𝗌 𝗈𝗇 𝖥𝗋𝗈𝗇𝗍-𝖾𝗇𝖽 & 𝖶𝖾𝖻 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍.
+Hi，I'm Ziming Su, a junior in HDU  and major in Telecommunication-Engineering. I'm a front-end developer and focus on web development, familiar with React, Vue, Node.js, TypeScript and so on.
 <br/>
 
-<!-- 𝘠𝘰𝘶 𝘤𝘢𝘯 𝘳𝘦𝘢𝘤𝘩 𝘮𝘦 𝘢𝘵: -->
-Yᴏᴜ ᴄᴀɴ ʀᴇᴀᴄʜ ᴍᴇ ᴀᴛ:
+You can reach me at:
 <br/>
 
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Xav1erSue)](https://github.com/Xav1erSue)
@@ -17,9 +16,9 @@ Yᴏᴜ ᴄᴀɴ ʀᴇᴀᴄʜ ᴍᴇ ᴀᴛ:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Xav1erSue&show_icons=true&hide_border=true&count_private=true&theme=buefy">
 
-- :book: ᴍy ꜱɪᴛᴇ: [ `https://blog.xav1er.com`](https://blog.xav1er.com)
-- :email: ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ: `s791521574@live.com`
-- :construction: ᴛᴇᴄ-ꜱᴛᴀᴄᴋ & ᴛᴏᴏʟꜱ:
+- :book: My Site [ `https://xav1er.com`](https://xav1er.com)
+- :email: Contact Me: `s791521574@live.com`
+- :construction: Tec-stack & Tools: 
 
 > ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-35363A?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
 > ![HTML5 Badge](https://img.shields.io/badge/-HTML5-35363A?style=flat-square&logo=HTML5&logoColor=E34F26)
@@ -39,7 +38,8 @@ Yᴏᴜ ᴄᴀɴ ʀᴇᴀᴄʜ ᴍᴇ ᴀᴛ:
 > ![PyTorch Badge](https://img.shields.io/badge/-PyTorch-35363A?style=flat-square&logo=PyTorch&logoColor=EE4C2C)
 > ![Anaconda Badge](https://img.shields.io/badge/-Anaconda-35363A?style=flat-square&logo=Anaconda&logoColor=44A833)
 > ![PyCharm Badge](https://img.shields.io/badge/-PyCharm-35363A?style=flat-square&logo=PyCharm&logoColor=57BDD7)
-- :computer: ᴩʟᴀᴛꜰᴏʀᴍ:   ![MacOS Badge](https://img.shields.io/badge/-MacOS-35363A?style=flat-square&logo=Apple&logoColor=ffffff)
+
+- :computer: Platform: ![MacOS Badge](https://img.shields.io/badge/-MacOS-35363A?style=flat-square&logo=Apple&logoColor=ffffff)
 ![CentOS Badge](https://img.shields.io/badge/-CentOS-35363A?style=flat-square&logo=CentOS&logoColor=ffffff)
 ![Windows Badge](https://img.shields.io/badge/-Windows-35363A?style=flat-square&logo=Windows&logoColor=0078D6)
 
