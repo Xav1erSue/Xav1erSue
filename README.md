@@ -19,7 +19,7 @@
 
 ### Introduction
 
-Hi，I'm [Ziming Su](https://xav1er.com), a junior in `HDU`(*Hangzhou Dianzi University*) and major in `Telecommunication-Engineering`. I'm a `front-end` developer and focus on web development, familiar with React, Vue, Node.js, TypeScript and so on. 
+I'm [*Ziming Su*](https://xav1er.com), a junior in `HDU`(*Hangzhou Dianzi University*) and major in `Telecommunication-Engineering`. I'm a `front-end` developer and focus on web development, familiar with `React`, `Vue`, `Node.js`, `TypeScript` and so on. 
 
 ### Overview
 
@@ -38,3 +38,4 @@ Hi，I'm [Ziming Su](https://xav1er.com), a junior in `HDU`(*Hangzhou Dianzi Uni
 <img align="left" height="25em" src="https://raw.githubusercontent.com/Xav1erSue/Xav1erSue/main/vuedotjs-color.svg">
 <img align="left" height="25em" src="https://raw.githubusercontent.com/Xav1erSue/Xav1erSue/main/koa-color.svg">
 ...
+
