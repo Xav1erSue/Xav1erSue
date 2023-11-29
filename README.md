@@ -19,7 +19,7 @@
 
 ### Introduction
 
-I'm [ Xav1er_](https://xav1er.com), a senior in `HDU`(_Hangzhou Dianzi University_) ,currently an intern in `Goodme` and major in `Telecommunication-Engineering`. I'm a `front-end` developer and focus on web development, familiar with `React`, `Vue`, `Node.js`, `TypeScript` and so on.
+I'm [Xav1er](https://xav1er.com), a senior in `HDU`(_Hangzhou Dianzi University_) ,currently an intern in `Goodme` and major in `Telecommunication-Engineering`. I'm a `front-end` developer and focus on web development, familiar with `React`, `Vue`, `Node.js`, `TypeScript` and so on.
 
 ### Overview
 
