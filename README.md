@@ -46,8 +46,7 @@ Basically I use `Next.js` for web development, `Tauri` for desktop/mobile and `N
 - 🚀 [Tour](https://github.com/Xav1erSue/tour)(a cross-platform tour component.)
 
 ### Overview
-
-<a href="https://github.com/Xav1erSue">
+<p>
   <img height="180em" src="https://github-readme-stats-rouge-pi.vercel.app/api?username=Xav1erSue&theme=buefy&show_icons=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-rouge-pi.vercel.app/api/top-langs/?username=Xav1erSue&theme=buefy&layout=compact&hide_border=true" />
-</a>
+</p>
