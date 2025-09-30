@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Xav1er!</h1>
 
-<h3 align="center">“正在向所有玩家高奏您的MVP凯歌：Blitz Kids——有为青年（StatTrakTM）”</h3>
+<h3 align="center">“正在向所有玩家高奏您的MVP凯歌：Blitz Kids——有为青年（StatTrak™）”</h3>
 
 <div align="center">
 
